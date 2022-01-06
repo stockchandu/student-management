@@ -1,0 +1,47 @@
+.contest__filter-parent{
+    width: 50%;
+    /* height: 25vh; */
+    border: 1px solid rgb(187, 187, 187);
+    display: flex;
+    margin: 1% auto 0 auto;
+    padding: 2%;
+}
+
+.filter__input-box{
+    margin-left: 2%;
+}
+.filter__input-box>div{
+    margin-bottom: 2%;
+}
+
+.filter__input-box>input{
+    width: 10vw;
+    height: 5vh;
+    border: 1px solid rgb(187, 187, 187);
+    outline: 0;
+    padding-left: 2%;
+}
+
+.filter__input-box>input:focus{
+    border: 1px solid #98c7df;
+}
+
+.filter__input-box>select{
+    width: 9vw;
+    height: 5.5vh;
+    border: 1px solid rgb(187, 187, 187);
+    outline: 0;
+}
+.filter__input-box>select:focus{
+    border: 1px solid #98c7df;
+}
+
+.filter__input-box>button{
+    width: 7vw;
+    height: 5.5vh;
+    margin-top: 23%;
+    border: 1px solid #408bb1;
+    background-color: #dfe9ee;
+    color: #408bb1;
+    cursor: pointer;
+}

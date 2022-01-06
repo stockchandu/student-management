@@ -1,0 +1,24 @@
+.strength-student{
+    background-color: #FF7043;
+    height: 5vh;
+}
+
+.add-contest__btn{
+    width: 99%;
+    /* background-color: #FF7043; */
+    display: flex;
+    justify-content: flex-end;
+}
+
+.add-contest__btn>button{
+    width: 20%;
+    height: 7vh;
+    background-color: #6DB969;
+    border: 0;
+    border-radius: 7px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    box-shadow: 0 4px 8px 0 rgba(163, 162, 162, 0.2), 0 6px 20px 0 rgba(167, 162, 162, 0.19);
+    cursor: pointer;
+}

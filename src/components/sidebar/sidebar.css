@@ -1,0 +1,30 @@
+.show__side-bar{
+    position: fixed;
+    width: 23vw;
+    top:0;
+    left:0;
+    background-color:white;
+    color:rgb(0, 0, 0);
+    height: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* text-align:center; */
+    transition: 0.5s;
+    overflow-x: hidden;
+}
+
+.show__side-bar>img{
+    margin: 5% 0 0 85%;
+    cursor: pointer;
+}
+
+.show__side-bar>p{
+    /* border: 1px solid rgb(224, 224, 224); */
+    transition: 0.5s;
+    overflow-x: hidden;
+    font-size: 20px;
+    /* margin: 0 0 20% 0; */
+    font-weight: 600;
+    padding: 6%;
+    cursor: pointer;
+}
+

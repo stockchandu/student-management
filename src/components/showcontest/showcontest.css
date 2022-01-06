@@ -1,0 +1,94 @@
+.contest-parent{
+    width: 100%;
+    height: 60vh;
+    margin: auto;
+    overflow-y: scroll;
+}
+
+
+.show__contest{
+    width: 80%;
+    height: 20vh;
+    box-shadow: 0 4px 8px 0 rgba(221, 220, 220, 0.2), 0 6px 20px 0 rgba(117, 116, 116, 0.19);
+    margin: 1% auto 0 auto;
+    padding: 3%;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+.spinner-load{
+    width: 5%;
+    margin:8% auto 0 auto;
+}
+
+.spinner-load>div:nth-child(1){
+   margin-left: 12%;
+}
+
+.spinner-load>div:nth-child(2){
+    color: #1976D2;
+ }
+
+.show__contest>div{
+    width: 100%;
+}
+
+.show__contest>div:nth-child(1){
+    font-size: 30px;
+    font-weight: 600;
+    
+}
+
+.show__contest>div:nth-child(2){
+    display: flex;
+    margin-top: 2%;
+    font-weight:450
+}
+
+.show__contest>div:nth-child(2)>div{
+    font-size: 20px;
+    margin-right: 2%;
+}
+
+.show__contest>div:nth-child(3){
+    width: 100%;
+    font-size: 20px;
+    text-align: end;
+}
+
+.show__contest>div:nth-child(3)>button{
+    width: 15%;
+    height: 6vh;
+    font-size: 16px;
+    background-color: #6DB969;
+    color: white;
+    font-weight: 500;
+    border: 0;
+    border-radius: 3px;
+
+}
+
+.show__contest>div:nth-child(3)>button:hover{
+    border: 1px solid rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.pagination__button{
+    width: 55%;
+    margin:2% auto 0 auto;
+}
+
+.pagination__button>button{
+    width: 6%;
+    margin-right: 2%;
+    height: 4vh;
+    border: 1px solid #c8c8c8;
+    cursor: pointer;
+}
+
+
+.pagination__button>button:hover{
+    border: 1px solid #408bb1;
+}
+
+

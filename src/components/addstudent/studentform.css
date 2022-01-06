@@ -1,0 +1,95 @@
+.main-parent{
+    width: 100%;
+    display:flex;
+    height: 100%;
+}
+
+.main-parent>div:nth-child(1){
+    width: 30%;
+}
+
+.main-parent>div:nth-child(2){
+    width: 100%;
+    border-left: 11px solid #1976D2;
+    /* padding-left: 1px; */
+}
+
+
+.student-form-container{
+    width: 98%;
+    /* height: auto; */
+    /* margin:0 auto 0 auto; */
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    background-color: white;
+    padding: 1%;
+}
+
+.student__input{
+    /* display: flex; */
+    width: 100%;
+}
+
+.student__input>div{
+    width: 100%;
+    margin: 1%;
+}
+
+.student__input>div>div{
+    margin:3% 0 2% 0;
+    font-weight: 600;
+    color: black;
+    font-size: 17px;
+}
+
+.student__input>div>input{
+    width: 95%;
+    height: 6vh;
+    padding: 0 0 0 2%;
+    font-weight: 600;
+    outline: none;
+    border: 1px solid grey;
+}
+
+.student__input>div>input::placeholder{
+    font-weight: 600;
+    color: black;
+}
+
+.student__input>div>select{
+    width: 98%;
+    height: 7vh;
+    font-weight: 600;
+    padding: 0 0 0 1%;
+    font-size: 15px;
+    outline: none;
+}
+
+.student__btn{
+    width:100%;
+    margin:5% 0 0 0;
+    
+}
+
+.student__btn>button{
+    width:100%;
+    height: 8vh;
+    background-color: #6DB969;
+    border: 0;
+    font-weight: 800;
+    color: white;
+    font-size: 15px;
+    border-radius: 7px;
+    box-shadow: 0 4px 8px 0 rgba(163, 162, 162, 0.2), 0 6px 20px 0 rgba(167, 162, 162, 0.19);
+    cursor: pointer;
+}
+
+/* .student__list>div:nth-child(1){
+    width: 99%;
+    height: 30vh;
+} */
+
+.student__list>div:nth-child(2){
+    overflow-y: scroll;
+    height: 80vh;
+    margin-top: -3%;
+}
