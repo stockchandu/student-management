@@ -5,68 +5,22 @@ A web application to manage student ,add student , add contest, filter contest a
 | --- | ---|
 
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://www.logolynx.com/images/logolynx/19/1997ab73731ad6d36c6845493e0f4875.jpeg"/>
 
-</p>
-
+</p> -->
+<!-- 
 ## Screenshots of our project nordstrom .
 ### 1. Home Page .
 <p align="center">
 <img src="https://miro.medium.com/max/1400/1*Zr3Q2IrfG7VQ_G38kNiUNA.png"/>
-</p>
+</p> -->
 
 ### 2. Hover navbar .
 <p align="center">
 <img src="https://miro.medium.com/max/1400/1*JmIpc5Ke66uhEkE5BMXLpw.png"/>
 </p>
-
-
-### 3. Product page .
-<p align="center">
-<img src="https://miro.medium.com/max/1400/1*DH3aPIoJGYCfyZtkE2vuWg.png"/>
-</p>
-
-### 4. Product filter .
-<p align="center">
-<img src="https://miro.medium.com/max/1400/1*lXAbYrC2tZI4O7bUdk8FQA.png"/>
-</p>
-
-### 5. Product information page .
-<p align="center">
-
-<img src="https://miro.medium.com/max/1400/1*s05Zt9UXx76tMiaksODADQ.png"/>
-
-</p>
-
-
-### 6. Cart page .
-Before going to add to the cart, you should be authenticated means you need to create an account in order to see the cart page.
-<p align="center">
-
-<img src="https://miro.medium.com/max/1400/1*TudB6OcZvDX0mIIF9j-XfA.png"/>
- <img src="https://miro.medium.com/max/1400/1*yOy082gXiH72Wq8XBoeqhg.png"/>
- 
-  <img src="https://miro.medium.com/max/1400/1*8cS3d9SS12zpZtHwr7JhQA.png"/>
-
-</p>
-
-### 7. Payment page .
-<p align="center">
-
-<img src="https://miro.medium.com/max/1400/1*Ia_QmUj-d2IZv09nx1WWGw.png"/>
-
-</p>
-
-
-### 8. Success page .
-<p align="center">
-
-<img src="https://miro.medium.com/max/1400/1*aBMfzz2PUEDgYHNotfEgSg.png"/>
-
-</p>
-
 
 ## 🛠️ Tech stack used in the project . 
 <p>
@@ -78,12 +32,12 @@ Before going to add to the cart, you should be authenticated means you need to c
 </p>
 
 
-## How to clone our project .
+## How to clone the project .
 | Go to visual studio code or open any terminal |```git clone https://github.com/stockchandu/student-management``` |
 | - | - |
 
 
-| Read the full blog  | [Medium](https://medium.com/@malikchandan926/project-nordstrom-within-5-days-using-react-js-cloned-e3298d9dc5ad) |
+| Read the full blog  | [Medium]() |
 | --- | ---|
 | Visit the web app  | [Student Management](https://student-management-app-chandu.netlify.app/) |
 
