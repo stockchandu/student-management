@@ -61,7 +61,7 @@ Note - admin login , use ``https://student-management-app-chandu.netlify.app/adm
 </p>
 
 
-## 🛠️ Tech stack used in the project . 
+## Tech stack used in the project . 
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
