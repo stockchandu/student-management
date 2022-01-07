@@ -17,10 +17,10 @@ A web application to manage student ,add student , add contest, filter contest a
 <img src="https://miro.medium.com/max/1400/1*Zr3Q2IrfG7VQ_G38kNiUNA.png"/>
 </p> -->
 
-### 2. Hover navbar .
+<!-- ### 2. Hover navbar .
 <p align="center">
 <img src="https://miro.medium.com/max/1400/1*JmIpc5Ke66uhEkE5BMXLpw.png"/>
-</p>
+</p> -->
 
 ## 🛠️ Tech stack used in the project . 
 <p>
