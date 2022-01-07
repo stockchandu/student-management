@@ -8,7 +8,6 @@ export const PrivateRoute = ({ children, path }) => {
     let sessionToken = sessionStorage.getItem("token");
     sessionToken = JSON.parse(sessionToken);
 
-    console.log(sessionToken)
     if (!localToken && !sessionToken) {
         return <Redirect to="/admin" push={true} />
     }
