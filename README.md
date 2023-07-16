@@ -76,7 +76,7 @@ Note - admin login , use ``https://student-management-app-chandu.netlify.app/adm
 | Go to visual studio code or open any terminal |```git clone https://github.com/stockchandu/student-management``` |
 | - | - |
 
-| Visit the web app  | [Student Management](https://student-management-app-chandu.netlify.app/) |
+| Live  | [Student Management](https://student-management-app-chandu.netlify.app/) |
 | --- | ---|
 
 Thank you .
